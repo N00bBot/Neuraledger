@@ -1,2 +1,2 @@
 # Neuraledger
-An open ecosystem of human credibility.
+An open ecosystem of human knowledge and credibility.
